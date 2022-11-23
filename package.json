@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  },
+  "scripts": {
+    "start": "yarn parcel index.html"
+  },
+  "name": "3dlib",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT"
+}
